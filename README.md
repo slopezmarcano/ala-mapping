@@ -7,5 +7,5 @@ This script creates a dynamic leaflet map showing the occurrences of Port Jackso
 # Map Features
 - The map displays different markers colored based on the type of data resource they were collected from.
 - The map has an option for the user to switch between different types of basemap (OpenStreetMap, CartoDB Positron, CartoDB DarkMatter).
-- The map has an option for the user to switch on and off the minimum convex polygon. [IN PROGRESS]
+- The map has an option for the user to switch on and off the minimum convex polygon.
 - The map has a legend that shows the different types of data resource and it can be collapsed. [IN PROGRESS]
